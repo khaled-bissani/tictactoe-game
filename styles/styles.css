@@ -1,0 +1,104 @@
+/* Css reset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    margin-bottom: 50px;
+}
+h2{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.btns{
+    display: flex;
+    justify-content: center;
+}
+button{
+    padding: 10px 20px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-left: 15px;
+    border-radius: 50px;
+    border: none;
+    background-color: blue;
+    color: #fff;
+    cursor: pointer;
+}
+/* Container */
+.container1{
+    margin-top: 200px;
+    margin-left: 650px;
+    display: flex;
+    width: 500px;
+}
+.container2{
+    margin-left: 650px;
+    display: flex;
+    width: 500px;
+}
+.container3{
+    margin-left: 650px;
+    display: flex;
+    width: 500px;
+}
+/* Block */
+.block1{
+    width: 200px;
+    height: 200px;
+    border-right: 1px solid #000;
+    border-bottom: 1px solid #000;
+}
+.block2{
+    width: 200px;
+    height: 200px;
+    border-right: 1px solid #000;
+    border-bottom: 1px solid #000;
+    border-left: 1px solid #000;
+}
+.block3{
+    width: 200px;
+    height: 200px;
+    border-left: 1px solid #000;
+    border-bottom: 1px solid #000;
+}
+.block4{
+    width: 200px;
+    height: 200px;
+    border-right: 1px solid #000;
+    border-bottom: 1px solid #000;
+    border-top: 1px solid #000;
+}
+.block5{
+    width: 200px;
+    height: 200px;
+    border: 1px solid #000;
+}
+.block6{
+    width: 200px;
+    height: 200px;
+    border-left: 1px solid #000;
+    border-bottom: 1px solid #000;
+    border-top: 1px solid #000;
+}
+.block7{
+    width: 200px;
+    height: 200px;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+}
+.block8{
+    width: 200px;
+    height: 200px;
+    border-right: 1px solid #000;
+    border-top: 1px solid #000;
+    border-left: 1px solid #000;
+}
+.block9{
+    width: 200px;
+    height: 200px;
+    border-left: 1px solid #000;
+    border-top: 1px solid #000;
+}
